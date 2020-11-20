@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
 When would you want to use a remote repository rather than keeping all your work local?
 
 	when more than one contributer are contributing with the project.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+clones are used to clone an entire repository which will not have reference to the original repository
+forks will have reference to the author who created the repository and can reflect the changes if you hae the access
+branches are subject to induvidual repository like branches are inside the repository.
